@@ -1,0 +1,27 @@
+img{
+    border: 2px solid black;
+    background-color: ghostwhite;
+    
+}
+.hello{
+    font-size:30px;
+    color: black;
+}
+.ar{
+    color:red;
+    font-weight: 800;
+}
+.contacts{
+    color: green; 
+}
+
+.ta{
+    color: burlywood;
+    font-style: oblique;
+
+}
+.link{
+    border: 2px solid blueviolet;
+    width: 20%;
+
+}
